@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ckx:home|Door43 (ckx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ckx|d43-ckx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ckx/archive/master.zip|d43-ckx.zip]]
+
+**Recent Changes**
+{{changes>ns = ckx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ckx|Ethnologue data]]
+
